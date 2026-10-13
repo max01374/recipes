@@ -1,6 +1,6 @@
 #Guacamole
 ## Ingredients
-* lemon
+* lime
 * salt
 * avocado
 ## Instructions
